@@ -19,8 +19,8 @@ const CONFIG = {
   dataInicio: "2024-08-09T14:00:00", // <-- ex: "2023-02-14T20:00:00"
 
   // Caminho do arquivo de música (mp3). Veja assets/music/README.md
-  musica: "assets/music/nossa-musica.mp3",
-  nomeMusica: "Nome da nossa música",
+  musica: "music/nossa-musica.mp3",
+  nomeMusica: "Me encontra",
 
   // Texto da carta. Use \n\n para pular parágrafo.
   carta: `Meu amor,
@@ -46,42 +46,42 @@ Eu te amo.`,
       data: "Capítulo 1",
       titulo: "Nosso primeiro encontro",
       texto: "O dia em que tudo começou. Troque este texto pela nossa história de verdade.",
-      foto: "assets/images/foto1.jpg" // ex: "" (deixe vazio para não mostrar foto)
+      foto: "images/foto1.jpg" // ex: "" (deixe vazio para não mostrar foto)
     },
     {
       data: "Capítulo 2",
       titulo: "Quando percebi que estava apaixonado(a)",
       texto: "O momento exato em que percebi que você era diferente de tudo.",
-      foto: "assets/images/foto2.jpg"
+      foto: "images/foto2.jpg"
     },
     {
       data: "Capítulo 3",
       titulo: "Nosso primeiro beijo",
       texto: "Um instante pequeno que ficou guardado para sempre.",
-      foto: "assets/images/foto3.jpg"
+      foto: "images/foto3.jpg"
     },
     {
       data: "Capítulo 4",
       titulo: "Um momento inesquecível",
       texto: "Escolha aqui uma lembrança marcante da nossa história.",
-      foto: "assets/images/foto4.jpg"
+      foto: "images/foto4.jpg"
     },
     {
       data: "Continua...",
       titulo: "E todos os momentos que ainda vamos viver",
       texto: "Essa história ainda está sendo escrita, dia após dia, com você.",
-      foto: "assets/images/foto5.jpg"
+      foto: "images/foto5.jpg"
     }
   ],
 
   // Fotos da galeria — troque pelos caminhos das suas fotos reais.
   fotos: [
-    "assets/images/foto1.jpg",
-    "assets/images/foto2.jpg",
-    "assets/images/foto3.jpg",
-    "assets/images/foto4.jpg",
-    "assets/images/foto5.jpg",
-    "assets/images/foto6.jpg"
+    "images/foto1.jpg",
+    "images/foto2.jpg",
+    "images/foto3.jpg",
+    "images/foto4.jpg",
+    "images/foto5.jpg",
+    "images/foto6.jpg"
   ],
 
   // Cartões "Por que eu amo você"
