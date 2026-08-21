@@ -46,31 +46,31 @@ Eu te amo.`,
       data: "Capítulo 1",
       titulo: "Nosso primeiro encontro",
       texto: "O dia em que tudo começou. Troque este texto pela nossa história de verdade.",
-      foto: "" // ex: "assets/images/foto1.jpg" (deixe vazio para não mostrar foto)
+      foto: "assets/images/foto1.jpg" // ex: "" (deixe vazio para não mostrar foto)
     },
     {
       data: "Capítulo 2",
       titulo: "Quando percebi que estava apaixonado(a)",
       texto: "O momento exato em que percebi que você era diferente de tudo.",
-      foto: ""
+      foto: "assets/images/foto2.jpg"
     },
     {
       data: "Capítulo 3",
       titulo: "Nosso primeiro beijo",
       texto: "Um instante pequeno que ficou guardado para sempre.",
-      foto: ""
+      foto: "assets/images/foto3.jpg"
     },
     {
       data: "Capítulo 4",
       titulo: "Um momento inesquecível",
       texto: "Escolha aqui uma lembrança marcante da nossa história.",
-      foto: ""
+      foto: "assets/images/foto4.jpg"
     },
     {
       data: "Continua...",
       titulo: "E todos os momentos que ainda vamos viver",
       texto: "Essa história ainda está sendo escrita, dia após dia, com você.",
-      foto: ""
+      foto: "assets/images/foto5.jpg"
     }
   ],
 
