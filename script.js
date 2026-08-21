@@ -9,14 +9,14 @@
    ============================================================ */
 const CONFIG = {
   // Nomes usados no site
-  nomeDela: "NOME DELA",
-  meuNome: "Com todo o meu amor, MEU NOME",
+  nomeDela: "Maria",
+  meuNome: "Com todo o meu amor, Leonardo",
 
   // Data de início do relacionamento.
   // Formato: "AAAA-MM-DDTHH:MM:SS" (ano-mês-dia + hora, 24h)
   // Exemplo: namoro começou em 14 de fevereiro de 2023, às 20h:
   // dataInicio: "2023-02-14T20:00:00"
-  dataInicio: "COLOQUE-AQUI-A-DATA", // <-- ex: "2023-02-14T20:00:00"
+  dataInicio: "2024-08-09T14:00:00", // <-- ex: "2023-02-14T20:00:00"
 
   // Caminho do arquivo de música (mp3). Veja assets/music/README.md
   musica: "assets/music/nossa-musica.mp3",
